@@ -1,0 +1,1 @@
+This is a complete working code that crawls the listing and NFT collections' meta data from gem.xyz (precedes Opensea-Pro), and allows for simple and complex price and trait filters to trigger listing signals sent to a pre-configured Discord server. Gem.xyz transitioning to Opensea-Pro in April 2023 requires updates on API connection.
