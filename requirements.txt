@@ -16,7 +16,7 @@ backcall==0.2.0
     # via ipython
 black==22.3.0
     # via -r dependencies/requirements.in
-certifi==2022.5.18.1
+certifi==2023.7.22.1
     # via
     #   msrest
     #   requests
