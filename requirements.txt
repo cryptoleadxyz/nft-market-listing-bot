@@ -154,7 +154,7 @@ traitlets==5.2.1.post0
     #   matplotlib-inline
 typing-extensions==4.2.0
     # via azure-core
-urllib3==1.26.9
+urllib3==1.26.18
     # via requests
 wcwidth==0.2.5
     # via prompt-toolkit
